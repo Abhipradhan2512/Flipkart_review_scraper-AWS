@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Page</title>
+</head>
+<body>
+    <div class="content">
+        <h1 style="text-align: center">Search</h1>
+
+        <div class="form" style="text-align: center">
+            <form action="/review" method="POST">
+                <!-- Input for search content -->
+                <input type="text" name="content" id="content" placeholder="Search content" required>
+                <br><br>
+                <!-- Input for the number of pages -->
+                <input type="number" name="num_pages" id="num_pages" placeholder="Number of pages" min="1" required>
+                <br><br>
+                <!-- Submit button -->
+                <input type="submit" value="Search">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

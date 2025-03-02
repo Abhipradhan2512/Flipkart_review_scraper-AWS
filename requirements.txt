@@ -1,0 +1,8 @@
+beautifulsoup4
+bs4
+Flask
+Flask-Cors
+Jinja2
+MarkupSafe
+requests
+urllib3

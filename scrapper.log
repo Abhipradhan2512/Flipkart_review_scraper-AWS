@@ -1,0 +1,114 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.20:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:36:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:36:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:38:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.20:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:39:32] "GET / HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.'}, {'comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'comment': 'Very very good'}, {'comment': 'Good Camera'}, {'comment': 'This is amazing at all'}, {'comment': 'Perfect Product!!'}, {'comment': 'Photos super'}, {'comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'comment': 'Excellent Phone.'}, {'comment': 'Value for money \U0001f60d'}, {'comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'comment': 'V Good all'}, {'comment': 'Good product \U0001f44cI love iPhone'}, {'comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61c'}, {'comment': 'It’s really awesome'}, {'comment': 'Nice productThe camera is extremely good which i liked the most.Got delivery within 24 hrs. Thanks to Flipkart'}, {'comment': 'Awesome Battery Life...Camera clarity is too good..Value for money...Its gives full day battery backup in single charge...'}, {'comment': 'iPhone 11 is a good phone. Not a very big difference between 12 except for the OLED screen and a very minor camera improvement which is you cant make a difference. If you are planning for a iPhone and you have budget you definitely can go for this without second thoughts. Now some people are complaining and giving review 0 or so because there is no charger and headphones, but thats been already mentioned so I assume they are illiterate. Its not that Flipkart is removing them duh. Anyways bee...'}, {'comment': 'If you get it you would definitely not regret it. It is a premium flagship phone. Love for apple, love for iphone.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:39:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:42:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:42:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:43:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2025 00:43:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2025 00:43:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.20:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:48:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.20:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 00:53:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:13:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:13:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:17:34] "GET / HTTP/1.1" 200 -
+INFO:root:'str' object cannot be interpreted as an integer
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:17:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:19:04] "GET / HTTP/1.1" 200 -
+INFO:root:'str' object cannot be interpreted as an integer
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:19:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:20:06] "GET / HTTP/1.1" 200 -
+INFO:root:'str' object cannot be interpreted as an integer
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:20:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:21:53] "GET / HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:22:03] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.'}, {'comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'comment': 'Very very good'}, {'comment': 'Good Camera'}, {'comment': 'This is amazing at all'}, {'comment': 'Perfect Product!!'}, {'comment': 'Photos super'}, {'comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'comment': 'Excellent Phone.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:22:23] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.'}, {'comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'comment': 'Very very good'}, {'comment': 'Good Camera'}, {'comment': 'This is amazing at all'}, {'comment': 'Perfect Product!!'}, {'comment': 'Photos super'}, {'comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'comment': 'Excellent Phone.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:22:32] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.'}, {'comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'comment': 'Very very good'}, {'comment': 'Good Camera'}, {'comment': 'This is amazing at all'}, {'comment': 'Perfect Product!!'}, {'comment': 'Photos super'}, {'comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'comment': 'Excellent Phone.'}, {'comment': 'Value for money \U0001f60d'}, {'comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'comment': 'V Good all'}, {'comment': 'Good product \U0001f44cI love iPhone'}, {'comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61c'}, {'comment': 'It’s really awesome'}, {'comment': 'Nice productThe camera is extremely good which i liked the most.Got delivery within 24 hrs. Thanks to Flipkart'}, {'comment': 'Awesome Battery Life...Camera clarity is too good..Value for money...Its gives full day battery backup in single charge...'}, {'comment': 'iPhone 11 is a good phone. Not a very big difference between 12 except for the OLED screen and a very minor camera improvement which is you cant make a difference. If you are planning for a iPhone and you have budget you definitely can go for this without second thoughts. Now some people are complaining and giving review 0 or so because there is no charger and headphones, but thats been already mentioned so I assume they are illiterate. Its not that Flipkart is removing them duh. Anyways bee...'}, {'comment': 'If you get it you would definitely not regret it. It is a premium flagship phone. Love for apple, love for iphone.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 01:22:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 14:44:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 14:44:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result [{'comment': "My father's first iphone\u2764\ufe0fColour is awesome and so light in weight It should be available with 256gbAnyways design and camera is awesome"}, {'comment': 'Awesome..Loved It.\U0001f970\U0001f970'}, {'comment': 'Very good'}, {'comment': 'iOS is always amazing.'}, {'comment': 'Best phone'}, {'comment': "Just wow it's worth the price"}, {'comment': "Upgraded to the 16 from my 12 and it is a great phone. The Ultramarine Blue looks and feels sooo good. The photos don't do enough justice to this variant.You definitely do not need to upgrade to this if you are having a 14 or a 15, unless Apple Intelligence is something that you do not want to live without.Camera is great, though not very sure of the Camera Control thing, cuz all that is pretty much available on-screen UI. Also, got a great deal on the exchange and bank offer, so zero co..."}, {'comment': 'like it feel premium'}, {'comment': 'good'}, {'comment': 'Great Deal and Bank offer on Flipkart. Camera is excellent but observed heating issue while transferring data and while charging. I used to get same overheating issue in my Iphone 11, heating issue is same as my 4 year old iphone 11. Will post another review after a week of usage.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 14:45:18] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': "My father's first iphone\u2764\ufe0fColour is awesome and so light in weight It should be available with 256gbAnyways design and camera is awesome"}, {'comment': 'Awesome..Loved It.\U0001f970\U0001f970'}, {'comment': 'Very good'}, {'comment': 'iOS is always amazing.'}, {'comment': 'Best phone'}, {'comment': "Just wow it's worth the price"}, {'comment': "Upgraded to the 16 from my 12 and it is a great phone. The Ultramarine Blue looks and feels sooo good. The photos don't do enough justice to this variant.You definitely do not need to upgrade to this if you are having a 14 or a 15, unless Apple Intelligence is something that you do not want to live without.Camera is great, though not very sure of the Camera Control thing, cuz all that is pretty much available on-screen UI. Also, got a great deal on the exchange and bank offer, so zero co..."}, {'comment': 'like it feel premium'}, {'comment': 'good'}, {'comment': 'Great Deal and Bank offer on Flipkart. Camera is excellent but observed heating issue while transferring data and while charging. I used to get same overheating issue in my Iphone 11, heating issue is same as my 4 year old iphone 11. Will post another review after a week of usage.'}, {'comment': 'Awesome product'}, {'comment': 'Bought the phone solely for battery performance and assuming camera of iPhones are always good. A bit of disappointment as I switched from Samsung S22 Plus which offered great screen quality, excellent camera and Galaxy AI did wonders while iPhone 16 is not performing as expected in terms of battery and camera quality. Pros:1. Touch screen 2. Build Quality3. Light weightCons 1. No major cons only thing is you will feel disappointed for few days as you switch from android to iOS more i...'}, {'comment': 'Best for videography and also good for photos if you are interested in little bit editing .Look and feel of the phone is premium and top notch software experience .Battery backup is good considering the form factor and performance is also superb .Major problem is low refresh rate but I tink those who are going to buy they know it already .Apple intelligence is till now under beta and some bugs are there which will be rectified by apple in updates Overall a good buy if videography is a pr...'}, {'comment': 'Wonderfully lightweight stuff. Worth purchasing. Improved speakers and a more seamless display. Incredibly cozy to use with one hand. Go for Teal colour.'}, {'comment': 'Colour is very good also camera placement'}, {'comment': 'Love it'}, {'comment': "It's a very good phone everything is good in it..."}, {'comment': 'I love it \u2764\ufe0f\u2764\ufe0f'}, {'comment': 'Good mobile'}, {'comment': 'I like this phone but there is no difference between 15 and 16 and apple Intelligence is also not in phone yet. Overall the phone is good but apple can do better'}, {'comment': 'Camera is superb'}, {'comment': 'Finally I got it \U0001f603 and love it \U0001f618'}, {'comment': 'Fantastic \u2764\ufe0f'}, {'comment': 'Upgrading from 12 mini. Awesome product. As usual performance is smooth for normal usage. Battery life is also good considering this form factor. Only downside is Apple Intelligence is not available out of the box. Camera quality is awesome.'}, {'comment': "This is Apple \U0001f601 The best quality delivered always. When I was installing my backup from my iPad, it became very hot during camera operation. But after the software update, gradually it became normal.Now it is working well. I also went to Imagine for a checkup and came to know that this is quite normal.That's it. I hope after the Apple intelligence update we can have some new features and entertainment windows will open for us \U0001f600 Thanks, FLIPKART, for delivering with promise and safety."}, {'comment': 'Camera 10/10Battery 10/8Display 10/10Design 10/10Performance 10/10Finally a Great Phone in this price segment \u2763\ufe0f'}, {'comment': 'Good c'}, {'comment': "The best compact phone at the perfect 6.1 size. Only issue is with the outdated 60Hz display and a slower charging speed. Can't complain as it is cheaper than even the Pixel 9!"}, {'comment': 'iPhone 16 is best for those who not buy 15 series. And it has very best hand feel.'}, {'comment': 'Good'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 14:45:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.31.20:5020
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 15:11:29] "GET / HTTP/1.1" 200 -
+INFO:root:log my final result [{'comment': "My father's first iphone\u2764\ufe0fColour is awesome and so light in weight It should be available with 256gbAnyways design and camera is awesome"}, {'comment': 'Awesome..Loved It.\U0001f970\U0001f970'}, {'comment': 'Very good'}, {'comment': 'iOS is always amazing.'}, {'comment': 'Best phone'}, {'comment': "Just wow it's worth the price"}, {'comment': "Upgraded to the 16 from my 12 and it is a great phone. The Ultramarine Blue looks and feels sooo good. The photos don't do enough justice to this variant.You definitely do not need to upgrade to this if you are having a 14 or a 15, unless Apple Intelligence is something that you do not want to live without.Camera is great, though not very sure of the Camera Control thing, cuz all that is pretty much available on-screen UI. Also, got a great deal on the exchange and bank offer, so zero co..."}, {'comment': 'like it feel premium'}, {'comment': 'good'}, {'comment': 'Great Deal and Bank offer on Flipkart. Camera is excellent but observed heating issue while transferring data and while charging. I used to get same overheating issue in my Iphone 11, heating issue is same as my 4 year old iphone 11. Will post another review after a week of usage.'}]
+INFO:werkzeug:192.168.31.20 - - [02/Mar/2025 15:11:44] "POST /review HTTP/1.1" 200 -
