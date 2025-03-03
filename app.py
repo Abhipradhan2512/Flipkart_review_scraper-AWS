@@ -1,13 +1,12 @@
-from flask import Flask, render_template, request, jsonify
-from flask_cors import CORS, cross_origin
+from flask import Flask, render_template, request#, jsonify
+#from flask_cors import CORS, cross_origin
 import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
 import logging
 logging.basicConfig(filename="scrapper.log" , level=logging.INFO)
 
-application = Flask(__name__)
-app=application
+app = Flask(__name__)
 
 @app.route("/", methods = ['GET'])
 def homepage():
@@ -68,7 +67,7 @@ def index():
             return render_template('result.html',reviews=reviews[0:(len(reviews)-1)])
         except Exception as e:
             logging.info(e)
-            return "wrong"
+            return "something wnt wrong"
     
     else:
         return render_template('index.html')
